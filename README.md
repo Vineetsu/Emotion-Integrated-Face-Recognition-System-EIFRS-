@@ -4,7 +4,7 @@
 
 **EIFRS (Emotion-Integrated Face Recognition System)** is a dual-factor biometric authentication system that combines **facial recognition** with **emotion detection** to provide a more secure and intelligent access control mechanism.
 
-Unlike traditional face recognition systems, EIFRS adds an emotional state check to ensure the user is both physically present and emotionally consistent (e.g., neutral or calm) — minimizing spoofing risks from static images or deepfakes.
+Unlike traditional face recognition systems, EIFRS adds an emotional state check to ensure the user is both physically present and emotionally consistent (e.g., neutral or calm) — minimizing spoofing risks from static images or deepfakes
 
 ---
 
